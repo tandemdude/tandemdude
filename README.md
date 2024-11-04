@@ -4,7 +4,7 @@
 # 💫 About Me:
 
 - University student studying for a BEng in Computer Science
-- Software engineer with 2+ years of professional experience and 4+ years of open source experience
+- Software engineer with 4+ years of professional experience and 6+ years of open source experience
 - Clay-pigeon and target shooter, and skilled skier
 - Qualified powerboat skipper
 
